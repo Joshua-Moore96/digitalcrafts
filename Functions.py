@@ -3,7 +3,7 @@ def add(num1, num2):
     return (result)
 
 
-print(add(2, 2))
+#print(add(2, 2))
 
 
 def sub(num1, num2):
@@ -11,7 +11,7 @@ def sub(num1, num2):
     return (result)
 
 
-print(sub(50, 5))
+#print(sub(50, 5))
 
 
 def mult(num1, num2):
@@ -19,4 +19,11 @@ def mult(num1, num2):
     return (result)
 
 
-print(mult(2, 2))
+#print(mult(2, 2))
+
+
+def ily():
+    return print("Ilove you josh")
+
+
+# print(ily())
